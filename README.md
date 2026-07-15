@@ -78,3 +78,8 @@ This research work has been published in:
 ## Outcome
 
 This project enhanced my understanding of equity markets, financial risk assessment, and investment decision-making through practical application of financial and statistical analysis.
+## About the Author
+
+**Hosur Bindu Manasa**
+
+MBA Finance Graduate with a strong interest in Financial Analysis, Equity Research, Corporate Finance, and Data Analysis. This repository showcases my academic research project and published research work completed as part of my MBA program.
